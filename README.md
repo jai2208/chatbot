@@ -1,2 +1,1 @@
-# chatbot
-app
+# PRO-C122-Project-Boilerplate
